@@ -3,6 +3,8 @@
 
 Welcome to Arya college of engineering & IT codechef community. This repository is having answers to codechef questions that have been written by students of ACEIT. Currently, we are accepting contributions from members only. Only ACEIT student can be a member of this organization. To be a part of this organization you can ping us at gitter channel.  
 
+**YOU CANNOT SUBMIT ANSWERS OF ONGOING CONTESTS**
+
 ## Lets get started 
 
 ### Installing git
