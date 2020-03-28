@@ -7,7 +7,7 @@ def calc():
         return(0)
     else:
         for k in range(len(s)-1):
-            if s[k+1] in 'aeiou' and s[k] in 'bcdfghjklmnpqrstvwxyz':
+            if s[k+1] in 'aeiou' and s[k] in 'bcdfghjklmnpqrstvzyxw':
                 l.append(k)
     return(len(l))
     
